@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "highcharts-export-server --enableServer 1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
